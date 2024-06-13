@@ -1,0 +1,28 @@
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/bin/Debug/net8.0/Exercice C#
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/bin/Debug/net8.0/Exercice C#.deps.json
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/bin/Debug/net8.0/Exercice C#.runtimeconfig.json
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/bin/Debug/net8.0/Exercice C#.dll
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/bin/Debug/net8.0/Exercice C#.pdb
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/Exercice C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/Exercice C#.AssemblyInfoInputs.cache
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/Exercice C#.AssemblyInfo.cs
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/Exercice C#.csproj.CoreCompileInputs.cache
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/Exercice C#.dll
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/refint/Exercice C#.dll
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/Exercice C#.pdb
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/Exercice C#.genruntimeconfig.cache
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C#/obj/Debug/net8.0/ref/Exercice C#.dll
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/bin/Debug/net8.0/Exercice C#
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/bin/Debug/net8.0/Exercice C#.deps.json
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/bin/Debug/net8.0/Exercice C#.runtimeconfig.json
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/bin/Debug/net8.0/Exercice C#.dll
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/bin/Debug/net8.0/Exercice C#.pdb
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/Exercice C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/Exercice C#.AssemblyInfoInputs.cache
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/Exercice C#.AssemblyInfo.cs
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/Exercice C#.csproj.CoreCompileInputs.cache
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/Exercice C#.dll
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/refint/Exercice C#.dll
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/Exercice C#.pdb
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/Exercice C#.genruntimeconfig.cache
+/Users/Edouard/Desktop/TEST C#/Exercice C#/Exercice C# GPT/obj/Debug/net8.0/ref/Exercice C#.dll
